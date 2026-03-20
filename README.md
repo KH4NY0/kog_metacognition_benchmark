@@ -39,8 +39,8 @@ kaggle benchmarks run benchmark.py --model gemini-1.5-pro
 
 | Task | Metric | Weight |
 |---|---|---|
-| Task 1: PreAnswerPredict | 1 − Brier Score | 30% |
-| Task 2: ConfidenceCalibrate | 1 − ECE | 35% |
+| Task 1: PreAnswerPredict | 1: Brier Score | 30% |
+| Task 2: ConfidenceCalibrate | 1: ECE | 35% |
 | Task 3: SelfErrorDetect | F1 | 35% |
 
 All scores in [0, 1]. Higher = better.
