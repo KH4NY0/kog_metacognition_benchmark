@@ -47,7 +47,7 @@ All scores in [0, 1]. Higher = better.
 
 ## Dataset
 
-MMLU (Hendrycks et al., 2021) — 200 questions, 50 per difficulty tier
+MMLU (Hendrycks et al., 2021): 200 questions, 50 per difficulty tier
 (Easy / Medium / Hard / Expert), balanced across STEM, Humanities,
 Social Sciences, and Other domains.
 
